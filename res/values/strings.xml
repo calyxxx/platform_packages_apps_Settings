@@ -6224,7 +6224,7 @@
     <string name="tts_play">Play</string>
 
     <!-- Title of preference to enter the VPN settings activity -->
-    <string name="vpn_settings_title">VPN</string>
+    <string name="vpn_settings_title">VPN PROTECT</string>
 
     <!-- Title of Adaptive connectivity. Adaptive connectivity is a feature which automatically manages network connections for better battery life and performance. [CHAR LIMIT=60] -->
     <string name="adaptive_connectivity_title">Adaptive connectivity</string>

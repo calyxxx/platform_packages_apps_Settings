@@ -1176,7 +1176,7 @@
     <string name="suggested_fingerprint_lock_settings_summary" product="default"></string>
 
     <!--  Title for security picker to choose the unlock method: None/Pattern/PIN/Password [CHAR LIMIT=22] -->
-    <string name="lock_settings_picker_title">Choose screen lock</string>
+    <string name="lock_settings_picker_title">Choose encryption lock</string>
 
     <!--  Title for security picker to choose the profile unlock method: None/Pattern/PIN/Password [CHAR LIMIT=22] -->
     <string name="lock_settings_picker_title_profile">Choose work lock</string>
